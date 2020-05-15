@@ -1,11 +1,12 @@
 <template>
   <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-full.svg"
-    >
+    <img alt="Quasar logo" src="~assets/quasar-logo-full.svg">
+    13123
   </q-page>
 </template>
+
+<style>
+</style>
 
 <script>
 export default {
